@@ -1,4 +1,4 @@
-# Fundamental Programming Strunctures in Java
+# Fundamental Programming Structures in Java
 ## New Project
 路径，输入自己想要的名字 -> 找到src -> New -> Java Class -> Name 可能要用AbCd这样找到src -> New -> Java Class -> Name 可能要用AbCd这样
 ## Compiling and Running
